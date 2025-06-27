@@ -51,11 +51,6 @@ portfolio/
 ```
 ---
 
-## 📸 Live Preview
-
-- 🔗 [Protfolio](https://saurav-portfolio-nj68.vercel.app/) 
-
----
 
 ## 📬 Contact
 
